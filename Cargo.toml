@@ -8,7 +8,7 @@ description = "Security audit tooling container"
 homepage = ""
 documentation = ""
 repository = "https://github.com/felsweg-crabnebula/cargo-review"
-readme = "" 
+readme = "README.md" 
 keywords = ["audit", "Tauri"]
 
 
