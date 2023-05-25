@@ -5,7 +5,7 @@ edition = "2021"
 
 license = "Apache 2.0 or MIT"
 description = "Security audit tooling container"
-homepage = ""
+homepage = "https://crabnebula.dev"
 documentation = ""
 repository = "https://github.com/felsweg-crabnebula/cargo-review"
 readme = "README.md" 
