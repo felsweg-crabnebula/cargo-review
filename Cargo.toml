@@ -1,0 +1,15 @@
+[package]
+name = "cargo-review"
+version = "0.1.0"
+edition = "2021"
+
+license = "Apache 2.0 or MIT"
+description = "Security audit tooling container"
+homepage = ""
+documentation = ""
+repository = ""
+readme = "" 
+keywords = ["audit", "Tauri"]
+
+
+[dependencies]
