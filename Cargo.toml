@@ -7,7 +7,7 @@ license = "Apache 2.0 or MIT"
 description = "Security audit tooling container"
 homepage = ""
 documentation = ""
-repository = ""
+repository = "https://github.com/felsweg-crabnebula/cargo-review"
 readme = "" 
 keywords = ["audit", "Tauri"]
 
