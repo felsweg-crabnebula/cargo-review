@@ -3,7 +3,7 @@ name = "cargo-review"
 version = "0.1.0"
 edition = "2021"
 
-license = "Apache 2.0 or MIT"
+license = "Apache-2.0 OR MIT"
 description = "Security audit tooling container"
 homepage = "https://crabnebula.dev"
 documentation = "https://docs.rs/cargo-review"
